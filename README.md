@@ -1,4 +1,8 @@
 # 401-lab-12
+### Contributors
+* Peter Carmichael
+* Alistair Blake
+* Sarah Gilliam
 
 # OAuth
 OAuth is an open standard for access delegation.
